@@ -1,0 +1,15 @@
+{
+    "title": "Project to test ohotos",
+    "baseURL": "https:\/\/photos.totestpublishing.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "totestpublishing.com"
+    }
+}
